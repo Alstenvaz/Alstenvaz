@@ -5,13 +5,12 @@
 - Creativity is my strongest skill, and as such, I am looking for an opportunity to collaborate with industry professionals to translate business requirements into engaging, unique web solutions.  Interested in learning more about me?
 - 📫 How to reach me ...
 - Feel free to send me a message or reach out at alstenvaz@gmail.com.
-
-Technical Skills:
-Programming Languages: Python, Java, JavaScript, R, C++, C, HTML, PHP, Arduino IDE, R, CSS
-Database Management: Postgres SQL, Microsoft SQL, MongoDB, MySQL
-Frameworks: React, Node.js, Docker
-Web Technologies: Git, Unity3D
-Mobile Development: Android Studio, MIT App Inventor
-Software / Tools: WordPress, Adobe Premiere Pro, Adobe Audition, Microsoft Office 365, DJI Naza M2, APM, Raspberry Pi
-Operating Systems: Windows, Mac, Linux, Ubuntu, Raspbian
-Certifications: Programming for Everybody – Getting Started with Python (University of Michigan, July 2021)
+- Technical Skills:
+- Programming Languages: Python, Java, JavaScript, R, C++, C, HTML, PHP, Arduino IDE, R, CSS
+- Database Management: Postgres SQL, Microsoft SQL, MongoDB, MySQL
+- Frameworks: React, Node.js, Docker
+- Web Technologies: Git, Unity3D
+- Mobile Development: Android Studio, MIT App Inventor
+- Software / Tools: WordPress, Adobe Premiere Pro, Adobe Audition, Microsoft Office 365, DJI Naza M2, APM, Raspberry Pi
+- Operating Systems: Windows, Mac, Linux, Ubuntu, Raspbian
+- Certifications: Programming for Everybody – Getting Started with Python (University of Michigan, July 2021)
