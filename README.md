@@ -1,16 +1,42 @@
-- 👋 Hi, I’m @Alstenvaz
-- As an aspiring Software Developer with an innate interest in computer systems, I made the decision to pursue a Master of Computer Science from Pace University in Fall 2022 to further my programming expertise.  I recently completed my undergraduate career with a Bachelor of Engineering in Information Technology from Mumbai University, during which time I had the opportunity to build and program robotic technologies including drones, design interactive video games, and enhance my knowledge of programming languages, web technologies, and operating systems.
--  My passion for technology led me to launch Trade Protein Market (TPM), an e-business designed to promote health supplements marketed by fitness professionals.  Through developing and maintaining the website, I have supported my clients with increased revenue and traffic.  
+## Alsten Vaz - Software Developer Extraordinaire
 
-- Creativity is my strongest skill, and as such, I am looking for an opportunity to collaborate with industry professionals to translate business requirements into engaging, unique web solutions.  Interested in learning more about me?
-- 📫 How to reach me ...
-- Feel free to send me a message or reach out at alstenvaz@gmail.com.
-- Technical Skills:
-- Programming Languages: Python, Java, JavaScript, R, C++, C, HTML, PHP, Arduino IDE, R, CSS
-- Database Management: Postgres SQL, Microsoft SQL, MongoDB, MySQL
-- Frameworks: React, Node.js, Docker
-- Web Technologies: Git, Unity3D
-- Mobile Development: Android Studio, MIT App Inventor
-- Software / Tools: WordPress, Adobe Premiere Pro, Adobe Audition, Microsoft Office 365, DJI Naza M2, APM, Raspberry Pi
-- Operating Systems: Windows, Mac, Linux, Ubuntu, Raspbian
-- Certifications: Programming for Everybody – Getting Started with Python (University of Michigan, July 2021)
+### 🚀 About Me  
+Hey there! 👋 I'm Alsten Vaz, on a thrilling journey as a Software Developer pursuing my Master of Science (MS) in Computer Science with a focus on Software Engineering at Pace University. I honed my skills during my Bachelor of Engineering (BEng) in Information Technology at Mumbai University, where I delved into the realms of programming, database management, and web/mobile development.
+
+### 💻 Technical Wizardry  
+- **Languages:** Python, Java, JavaScript, C++, C, HTML, CSS, PHP, Arduino, R, C#
+- **Databases:** PostgreSQL, Microsoft SQL Server, MongoDB, MySQL
+- **Frameworks & Tools:** React, Node.js, Docker, Git, Figma, Adobe XD, AWS Connect, Google Analytics
+- **Mobile Mastery:** Android Studio, Xcode
+- **OS Whisperer:** Windows, macOS, Linux, Ubuntu, Raspbian
+- **Certifications:** AWS Certified Cloud Practitioner, HackerRank (CSS Basic, Python), Datacom (CISA), Security (CST)
+
+### 🌟 Professional Journey  
+#### KeeperAI.inc, New York, NY | Software Sorcerer Intern  
+- Crafted captivating front-end interfaces with CSS and Angular in our dynamic Agile environment
+- Enriched teamwork by integrating KeeperAI seamlessly into Microsoft Teams
+- Unveiled user insights with Java-driven usability tests and heatmap wizardry using Crazy Egg
+- Transformed raw data into actionable insights using SurveyMonkey and Redshift Database magic
+
+#### The YMCA of Greater New York, New York, NY | Application Alchemist Intern  
+- Conjured backend magic for the website powering 28 NYC branches, using ADP and Excel enchantments
+- Summoned SEO spells and managed user tickets with Postman prowess
+- Collaborated with the Application Development Guild to enhance website enchantments
+
+#### Shoptaki, New York, NY | UX/UI Design Artisan Intern  
+- Co-created a mobile healthcare marvel with Figma and React, adding search and reminder features
+- Infused business acumen into design spells and cast rigorous testing incantations
+
+### 🌈 Academic & Independent Adventures  
+#### Bargain Hunters, New York, NY | Project Paladin  
+- Led a quest as Project Manager and Software Developer, forging front-end wonders with JavaScript and Angular
+- Harnessed MongoDB magic for efficient data management, enhancing project prosperity
+
+### 🌐 Virtual Expedition Highlights  
+- Explored the realms of advanced software engineering and data sorcery with Walmart Global Tech, Wells Fargo, Accenture, and BCG
+
+### 📞 Let's Connect & Conquer  
+- 📧 Email: alstenignatius.vaz@pace.edu
+- 📞 Phone: 551-344-8897
+
+Embark on an adventure with me! Discover more enchanting creations on [GitHub](GitHub profile link). ✨
