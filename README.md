@@ -3,6 +3,16 @@
 ### 🚀 About Me  
 Hey there! 👋 I'm Alsten Vaz, on a thrilling journey as a Software Developer pursuing my Master of Science (MS) in Computer Science with a focus on Software Developing at Pace University. I honed my skills during my Bachelor of Engineering (BEng) in Information Technology at Mumbai University, where I delved into the realms of programming, database management, and web/mobile development.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alstenvaz&label=Profile%20views&color=0e75b6&style=flat" alt="alstenvaz" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alstenvaz" alt="alstenvaz" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alsten-vaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alsten-vaz/" height="30" width="40" /></a>
+<a href="https://codesandbox.com/alstenvaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alstenvaz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8aktrzaryjxmxh-6z18t_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8aktrzaryjxmxh-6z18t_w" height="30" width="40" /></a>
+</p>
 ### 💻 Technical Wizardry  
 - **Languages:** Python, Java, JavaScript, C++, C, HTML, CSS, PHP, Arduino, R, C#
 - **Databases:** PostgreSQL, Microsoft SQL Server, MongoDB, MySQL
