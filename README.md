@@ -1,7 +1,8 @@
-## Alsten Vaz - Software Developer Extraordinaire
+## Alsten Vaz - Software Developer
 
-### 🚀 About Me  
-Hey there! 👋 I'm Alsten Vaz, on a thrilling journey as a Software Developer pursuing my Master of Science (MS) in Computer Science with a focus on Software Developing at Pace University. I honed my skills during my Bachelor of Engineering (BEng) in Information Technology at Mumbai University, where I delved into the realms of programming, database management, and web/mobile development.
+<h1 align="center">Hi 👋, I'm Alsten Vaz</h1>
+<h3 align="center">A passionate Software Developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alstenvaz&label=Profile%20views&color=0e75b6&style=flat" alt="alstenvaz" /> </p>
 
