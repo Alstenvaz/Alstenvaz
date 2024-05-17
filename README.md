@@ -16,7 +16,7 @@
 
 
 ### 🌟 Professional Journey  
-#### KeeperAI.inc, New York, NY | Software Sorcerer Intern  
+#### KeeperAI.inc, New York, NY | Software Developer Intern  
 - Crafted captivating front-end interfaces with CSS and Angular in our dynamic Agile environment
 - Enriched teamwork by integrating KeeperAI seamlessly into Microsoft Teams
 - Unveiled user insights with Java-driven usability tests and heatmap wizardry using Crazy Egg
@@ -27,12 +27,12 @@
 - Summoned SEO spells and managed user tickets with Postman prowess
 - Collaborated with the Application Development Guild to enhance website enchantments
 
-#### Shoptaki, New York, NY | UX/UI Design Artisan Intern  
+#### Shoptaki, New York, NY | UX/UI Design Intern  
 - Co-created a mobile healthcare marvel with Figma and React, adding search and reminder features
 - Infused business acumen into design spells and cast rigorous testing incantations
 
 ### 🌈 Academic & Independent Adventures  
-#### Bargain Hunters, New York, NY | Project Paladin  
+#### Bargain Hunters, New York, NY | Project Manager  
 - Led a quest as Project Manager and Software Developer, forging front-end wonders with JavaScript and Angular
 - Harnessed MongoDB magic for efficient data management, enhancing project prosperity
 
