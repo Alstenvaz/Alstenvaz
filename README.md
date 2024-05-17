@@ -13,12 +13,7 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8aktrzaryjxmxh-6z18t_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8aktrzaryjxmxh-6z18t_w" height="30" width="40" /></a>
 </p>
 ### 💻 Technical Wizardry  
-- **Languages:** Python, Java, JavaScript, C++, C, HTML, CSS, PHP, Arduino, R, C#
-- **Databases:** PostgreSQL, Microsoft SQL Server, MongoDB, MySQL
-- **Frameworks & Tools:** React, Node.js, Docker, Git, Figma, Adobe XD, AWS Connect, Google Analytics
-- **Mobile Mastery:** Android Studio, Xcode
-- **OS Whisperer:** Windows, macOS, Linux, Ubuntu, Raspbian
-- **Certifications:** AWS Certified Cloud Practitioner, HackerRank (CSS Basic, Python), Datacom (CISA), Security (CST)
+
 
 ### 🌟 Professional Journey  
 #### KeeperAI.inc, New York, NY | Software Sorcerer Intern  
@@ -40,6 +35,8 @@
 #### Bargain Hunters, New York, NY | Project Paladin  
 - Led a quest as Project Manager and Software Developer, forging front-end wonders with JavaScript and Angular
 - Harnessed MongoDB magic for efficient data management, enhancing project prosperity
+
+### 💻 Technical Wizardry  
 
 ### 🌐 Virtual Expedition Highlights  
 - Explored the realms of advanced software engineering and data sorcery with Walmart Global Tech, Wells Fargo, Accenture, and BCG
