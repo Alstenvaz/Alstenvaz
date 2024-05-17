@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Alsten Vaz</h1>
 <h3 align="center">A passionate Software Developer</h3>
-
+<img align="right" alt='Coding' width="400" src="https://thuthuattienich.vn/sites/default/files/tu-van/1/cong-cu-lap-trinh.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alstenvaz&label=Profile%20views&color=0e75b6&style=flat" alt="alstenvaz" /> </p>
 
