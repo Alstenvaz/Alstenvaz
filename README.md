@@ -10,7 +10,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alsten-vaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alsten-vaz/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/alstenvaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alstenvaz" height="30" width="40" /></a>
+<a href="https://instagram.com/vazalsten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vazalsten" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8aktrzaryjxmxh-6z18t_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8aktrzaryjxmxh-6z18t_w" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/alstenvaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alstenvaz" height="30" width="40" /></a>
 </p>
 
 ### 🌟 Professional Journey  
