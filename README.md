@@ -15,8 +15,8 @@
 
 ### 🌟 Professional Journey  
 #### KeeperAI.inc, New York, NY | Software Developer Intern  
-•As a developer in our Agile team, Implementing and integrating Keeper AI Application into Microsoft Teams for advanced dynamic interactions. Meticulously crafting visually appealing interfaces using Tailwind CSS, angular for User Experience.
-•Utilized Java for conducting usability tests and integrate Heatmap tools like Crazy Egg to gain insights into user behavior. Additionally, employ debug and develop practices to enhance code quality and functionality.
+-As a developer in our Agile team, Implementing and integrating Keeper AI Application into Microsoft Teams for advanced dynamic interactions. Meticulously crafting visually appealing interfaces using Tailwind CSS, angular for User Experience.
+-Utilized Java for conducting usability tests and integrate Heatmap tools like Crazy Egg to gain insights into user behavior. Additionally, employ debug and develop practices to enhance code quality and functionality.
 •Moreover, connected SurveyMonkey with our Redshift Database for comprehensive analysis, improving our understanding of user preferences. In our Jira-driven code reviews, Git ensures seamless version control for collaborative development.
 •facilitating front-end-backend alignment. By leveraging Django for backend integration, maintaining consistency with our Design System, resulting in polished web applications prioritizing user satisfaction.
 •Implemented GraphQL to optimize data fetching and enable more efficient client-server communication, enhancing performance and flexibility in our web applications. Additionally, introduced Storybook for component-driven development, streamlining UI testing and collaboration within our Agile workflow
