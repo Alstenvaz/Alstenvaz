@@ -15,47 +15,6 @@
 <a href="https://www.hackerrank.com/alstenvaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alstenvaz" height="30" width="40" /></a>
 </p>
 
-### 🌟 Professional Journey  
-#### KeeperAI.inc, New York, NY | Software Developer Intern  
-As a developer in our Agile team, Implementing and integrating Keeper AI Application into Microsoft Teams for advanced dynamic interactions. Meticulously crafting visually appealing interfaces using Tailwind CSS, angular for User Experience.
-Utilized Java for conducting usability tests and integrate Heatmap tools like Crazy Egg to gain insights into user behavior. Additionally, employ debug and develop practices to enhance code quality and functionality.
-Moreover, connected SurveyMonkey with our Redshift Database for comprehensive analysis, improving our understanding of user preferences. In our Jira-driven code reviews, Git ensures seamless version control for collaborative development.
-facilitating front-end-backend alignment. By leveraging Django for backend integration, maintaining consistency with our Design System, resulting in polished web applications prioritizing user satisfaction.
-Implemented GraphQL to optimize data fetching and enable more efficient client-server communication, enhancing performance and flexibility in our web applications. Additionally, introduced Storybook for component-driven development, streamlining UI testing and collaboration within our Agile workflow
-
-
-
-#### The YMCA of Greater New York, New York, NY | Application Developer Intern  
-Maintain existing website infrastructure serving 28 branches across NYC, updating backend information including schedules, services, & location-specific programming using ADP, As400 IBM, & Excel, allowing for accurate service information.
-Managed and updated schedules and services for accuracy, implementing SEO tags to boost online visibility. I promptly addressed user tickets using Dataprise and Freshworks Ticketing, demonstrating strong troubleshooting skills.
-Collaborated closely with the Application Development team to integrate backend changes, optimizing website functionality and user experience. Prioritized application security and environmental considerations in all backend operations.
-
-
-
-#### Shoptaki, New York, NY | UX/UI Design Intern  
-Collaborated in a team of six to design the front-end of a mobile healthcare app using Figma, Lucid charts, Java, HTML, JavaScript, & React, optimizing functionality by building search & features allowing patients to receive real-time medication reminder.
-Incorporated business models considerations into the design process and employed rigorous testing methodologies to ensure the app's reliability and performance. Employed JavaScript fundamentals to enhance interactivity and responsiveness.
-
-
-
-
-### 🌈 Academic & Independent Adventures  
-#### Bargain Hunters, New York, NY | Project Manager  
-As the project manager for the BargainHunter platform, I led a dynamic team through a series of Agile sprints, ensuring that each phase was meticulously executed for timely delivery and stakeholder satisfaction. Utilizing tools like Jira and Jenkins, I orchestrated seamless project management and integration, overseeing various facets such as business requirements, documentation, and timelines. Providing technical guidance to a team of developers proficient in a range of technologies, including Node.js, React, and Java, I fostered a collaborative environment geared towards achieving our project objectives efficiently.
-
-In addition to project oversight, I spearheaded initiatives aimed at enhancing platform performance and security. From championing secure deployment practices to orchestrating deployment operations on AWS EC2 instances, I ensured scalability, reliability, and cost optimization. Implementing CI/CD pipelines with Jenkins streamlined testing and deployment processes, elevating code quality and operational efficiency. Through strategic database management utilizing MySQL, MongoDB, and Firebase, alongside robust version control with GitHub, I played a pivotal role in delivering a resilient, user-centric platform that facilitated seamless transactions and fostered community engagement.
-
-#### Convolutional Neural Networks for Ship Detection in Satellite Images
-The paper investigates the efficacy of various machine learning methodologies, particularly convolutional neural networks (CNNs), in the domain of ship detection within satellite imagery, with a specific emphasis on the San Francisco Bay Area. By comparing traditional machine learning approaches to advanced neural network models, the study underscores the superior performance of CNNs in image classification tasks. Notably, the CNN model attained an impressive 99% accuracy following 32 epochs of training. The findings advocate for further research to explore enhanced detection algorithms tailored for larger-scale image analysis in satellite imagery applications.
-
-### 💻 Technical Wizardry  
-
-### 🌐 Virtual Expedition Highlights  
-- Explored the realms of advanced software engineering and data sorcery with Walmart Global Tech, Wells Fargo, Accenture, and BCG
-
-### 📞 Let's Connect 
-- 📧 Email: alstenvaz@gmail.com
-- 📞 Phone: 551-344-8897
 
 Embark on an adventure with me! Discover more enchanting creations on [GitHub](GitHub profile link). ✨
 
